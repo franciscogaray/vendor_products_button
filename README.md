@@ -1,1 +1,1 @@
-This plugin inserts a button to edit products in My Account page for vendor users role.
+WordPress plugin created to insert a button to edit products in My Account page for vendor users role.
